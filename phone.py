@@ -1,1 +1,1 @@
-number = 'phone number'
+number = 'Your phone number'
